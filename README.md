@@ -1,5 +1,5 @@
 ### Hello
----
+
 I'm Electro, an artist and programmer mostly focused on game development, but I always try to learn new things, to hopefully one day be able to make something cool.
 
 I mostly work with GML, but I've also been learning C#, JavaScript, and HTML. I don't really have much to show at the moment since the majority of my repositories are private.
